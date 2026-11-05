@@ -1,0 +1,8 @@
+{
+  "name": "duck-arena-online",
+  "version": "1.0.0",
+  "description": "DUCK ARENA - salas X1/X2 em tempo real",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "socket.io": "^4.8.1"}
+}
